@@ -1,7 +1,7 @@
 package $package;
 
 /**
- * Hello world!venuu police 
+ * Hello world!
  *
  */
 public class App 
